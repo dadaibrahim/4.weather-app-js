@@ -1,0 +1,21 @@
+body{
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+
+.container{
+    margin-top: 20px;
+}
+
+input, button{
+    padding: 10px;
+    margin: 5px;
+    font-size: 1em;
+}
+
+.weather-status {
+    margin-top: 20px;
+    font-size: 1.2em;
+    color: #333;
+}
