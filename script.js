@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
-    const apiKey = "2228507a719cab889d322df92165d50e";
+    const apiKey = "Please your own api you get it in openweathermap.org ";
     const searchBtn = document.getElementById("search-btn");
     const cityInput = document.getElementById("city-input");
     const weatherStatus = document.getElementById("weather-status");
